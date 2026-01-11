@@ -65,7 +65,6 @@ public class AfkCommand implements CommandExecutor {
                     target.getName(), afk.toString()
                             .replace("true", "Yes")
                             .replace("false", "Nope"))));
-            player.sendMessage(Component.text(target.displayName().toString()));
             return true;
         }
 
