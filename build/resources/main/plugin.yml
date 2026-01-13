@@ -1,8 +1,0 @@
-name: AfkSystem
-version: '1.0-SNAPSHOT'
-main: it.xoxryze.afkSystem.AfkSystem
-api-version: '1.21'
-authors: [ RyZeeTheBest ]
-
-commands:
-  afk:
